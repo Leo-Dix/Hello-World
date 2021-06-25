@@ -1,0 +1,4 @@
+﻿  三角算法.c
+D:\Git Hello-World\Hello-World\格式输入与输出\三角面积算法\三角算法.c(13,23): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\Git Hello-World\Hello-World\格式输入与输出\三角面积算法\三角算法.c(14,46): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  三角面积算法.vcxproj -> D:\Git Hello-World\Hello-World\格式输入与输出\Debug\三角面积算法.exe
